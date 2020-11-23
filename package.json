@@ -1,0 +1,25 @@
+{
+  "name": "lab_lenguajes_arrayOperations",
+  "version": "1.0.0",
+  "description": "ejercicios entregables modulo dos. Apartado arrayOperations",
+  "main": "index.js",
+  "scripts": {
+    "start": "rimraf dist && parcel ./src/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palomalp/lab_lenguajes_arrayOperations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palomalp/lab_lenguajes_arrayOperations/issues"
+  },
+  "homepage": "https://github.com/palomalp/lab_lenguajes_arrayOperations#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "rimraf": "^3.0.2"
+  }
+}
